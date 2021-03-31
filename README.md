@@ -20,13 +20,7 @@ Email me: yudong9912@gmail.com
 
 Or reach me through QQ: 1347716570
 
-Or Discord: happylin#3752
+Or Discord: AnyLeftovers#3752
 
 Or send a private chat on Bilibili: https://space.bilibili.com/8182518
-
-
-
-## 💬 And...
-
- I am currently working on https://github.com/yudonglin/GirlsFrontLine-LastWish, and let me know if you are willing to help.
 
