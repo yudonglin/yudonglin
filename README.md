@@ -6,11 +6,11 @@ My favorite language: Python
 
 I also have plenty of experience working with: Java, C#, Typescript, JavaScript...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudonglin&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](profile/top-langs.svg)
 
 Since the day that I graduated from CodingDojo as one of the youngest triple-black-belt students, I know becoming a programmer will be my future, and I hope I will be a great one. Let me know if you need any help.
 
-[![yudonglin's github stats](https://github-readme-stats.vercel.app/api?username=yudonglin&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![yudonglin's github stats](profile/stats.svg)
 
 
 
